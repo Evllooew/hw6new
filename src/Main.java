@@ -373,7 +373,7 @@ public class Main {
                 System.out.println("Декабрь" + " Зима");
                 break;
             default:
-                System.out.println(" больше 12 месяцев, не бывает ;)");
+                System.out.println(" больше 12 месяцев, не бывает )");
 
         }
     }
