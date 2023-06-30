@@ -361,7 +361,7 @@ public class Main {
                 System.out.println("Август" + " Лето");
                 break;
             case 9:
-                System.out.println("Сентябрь" + "  Осень");
+                System.out.println("Сентябрь" + " Осень");
                 break;
             case 10:
                 System.out.println("Октябрь" + " Осень");
